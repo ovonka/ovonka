@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ovonka&label=Profile%20views&color=0e75b6&style=flat" alt="ovonka" /> </p>
 
-- 🔭 I’m currently working on **AirBnb Clone**
+- 🔭 I’m currently working on **Tic Tac Toe game**
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **React.js**
 
