@@ -1,105 +1,107 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 
-<h1 align="center">Hi 👋, I'm Nkanyiso Ntshangase</h1>
-<h3 align="center">Software Engineer • React / Node.js / TypeScript • Real-time Systems • AWS Certified</h3>
+<h1 align="center">Hi 👋, I'm Nkanyiso Ntshangase.</h1>
+<h3 align="center">Software Engineer from South Africa</h3>
 
-<img align="right" alt="Coding" width="380" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ovonka&label=Profile%20views&color=0e75b6&style=flat" alt="ovonka" />
+  <img
+    src="https://komarev.com/ghpvc/?username=ovonka&label=Profile%20views&color=0e75b6&style=flat"
+    alt="ovonka profile views"
+  />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- Software Engineer with **4+ years** building production-grade web applications
-- Currently at **Arteco Global** working on a cloud-managed **VSaaS** platform
-- Strong in **JavaScript, TypeScript, React, Node.js, SQL, GraphQL**
-- Testing with **Jest**
-- **AWS Certified Solutions Architect – Associate**
-- BSc Computer Science (UNISA) — Year 1 completed, Year 2 in progress (2026)
+- 👨‍💻 Software Engineer with **4+ years of professional experience**
+- 🏢 Currently working at **Arteco Global**
+- ⚙️ Working across **React, Node.js, TypeScript, SQL, GraphQL**
+- 🧪 Testing with **Jest**
+- ☁️ **AWS Certified Solutions Architect – Associate**
+- 🎓 BSc Computer Science (UNISA) — Year 1 completed, Year 2 in progress (2026)
 
----
+- 👨‍💻 All of my projects are available at  
+  👉 **https://nkanyiso-portfolio.netlify.app/**
 
-### 🔗 Links
-- 🌍 Portfolio: https://nkanyiso-portfolio.netlify.app/
-- 📫 Email: **nkanyisontshangase349@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/nkanyiso-ntshangase-006881113/
+- 💬 Ask me about **React, Node.js, JavaScript, TypeScript, SQL, GraphQL**
+
+- 📫 How to reach me **nkanyisontshangase349@gmail.com**
+
+- ⚡ Fun fact **I’m a good chess player**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nkanyiso-ntshangase-006881113/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
-  </a>
   <a href="https://instagram.com/nkah_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" width="40" />
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      height="30"
+      width="40"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/nkanyiso-ntshangase-006881113/" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedIn.svg"
+      height="30"
+      width="40"
+    />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Tech Stack:</h3>
-
-**Languages**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36"/>
-</p>
-
-**Frontend**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36"/>
-</p>
-
-**Backend & APIs**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="36"/>
-</p>
-
-**Databases**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36"/>
-</p>
-
-**Cloud & DevOps**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="36"/>
-</p>
-
-**Testing & Tools**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 </p>
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-
+<!-- GitHub Stats -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ovonka&show_icons=true&count_private=true&hide_border=true" />
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=ovonka&show_icons=true&locale=en&cache_seconds=1800&v=1"
+    alt="ovonka github stats"
+  />
 </p>
 
+<!-- Top Languages -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovonka&layout=compact&langs_count=8&hide_border=true" />
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ovonka&show_icons=true&locale=en&layout=compact&cache_seconds=1800&v=1"
+    alt="ovonka top languages"
+  />
 </p>
 
+<!-- GitHub Streak -->
 <p>
-  <img src="https://streak-stats.demolab.com?user=ovonka&hide_border=true" />
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ovonka&cache_seconds=1800&v=1"
+    alt="ovonka streak stats"
+  />
 </p>
