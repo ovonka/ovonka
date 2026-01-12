@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nkanyiso-ntshangase-006881113/" target="_blank">
+  <a href="https://www.linkedin.com/in/nkanyiso-ntshangase-006881113/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
   </a>
 </p>
