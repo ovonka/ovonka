@@ -1,7 +1,8 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 
 <h1 align="center">Hi 👋, I'm Nkanyiso Ntshangase</h1>
-<h3 align="center">Software Engineer • React / Node.js / TypeScript • Real-time Systems • AWS Certified</h3>
+<h3 align="center">Software Engineer </h3>
+<h3 align="center"> React / Node.js / TypeScript • Real-time Systems • AWS Certified</h3>
 
 <img align="right" alt="Coding" width="380" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
