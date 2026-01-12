@@ -24,8 +24,6 @@
 ### 🔗 Links
 - 🌍 Portfolio: https://nkanyiso-portfolio.netlify.app/
 - 📫 Email: **nkanyisontshangase349@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/nkanyiso-ntshangase-006881113/
-
 ---
 
 <h3 align="left">Connect with me:</h3>
