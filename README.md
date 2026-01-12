@@ -12,12 +12,12 @@
 ---
 
 ### 👨‍💻 About Me
-- Software Engineer with **4+ years** building production-grade web applications
-- Currently at **Arteco Global** working on a cloud-managed **VSaaS** platform
-- Strong in **JavaScript, TypeScript, React, Node.js, SQL, GraphQL**
-- Testing with **Jest**
-- **AWS Certified Solutions Architect – Associate**
-- BSc Computer Science (UNISA) — Year 1 completed, Year 2 in progress (2026)
+- 👨‍💻 Software Engineer with **4+ years** building **production-grade web applications**
+- 🏢 Currently at **Arteco Global**, working on a **cloud-managed VSaaS platform**
+- ⚙️ Strong in **JavaScript, TypeScript, React, Node.js, SQL, GraphQL**
+- 🧪 Testing with **Jest**
+- ☁️ **AWS Certified Solutions Architect – Associate**
+- 🎓 **BSc Computer Science (UNISA)** — Year 1 completed, Year 2 in progress (**2026**)
 
 ---
 
